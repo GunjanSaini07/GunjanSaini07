@@ -1,8 +1,12 @@
-Hi 👋, I'm Gunjan Saini
+## Hi 👋, I'm Gunjan Saini
 
-🌸Welcome to my little corner of GitHub! 
+## 🌸Welcome to my little corner of GitHub! 
 
 I’m passionate about Data Analytics
+
+
+
+
 
 - 📊 Current Focus:
    **Enhancing my data analysis skills using Excel, SQL, Power BI and Python**
@@ -12,15 +16,14 @@ I’m passionate about Data Analytics
 - 📫 How to reach me **📧 gunjanmsaini@gmail.com,
                        🔗 [LinkedIn]https://www.linkedin.com/in/gunjan-saini07**
   
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-
-<h3 align="left">🌐Social:</h3>
+<h3 align="left">🌐 Social:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gunjan-saini07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunjan-saini07" height="30" width="40" /></a>
 <a href="https://instagram.com/gunjan_saini07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gunjan_saini07" height="30" width="40" /></a>
 </p>
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
