@@ -23,7 +23,7 @@ I’m passionate about Data Analytics
 <a href="https://instagram.com/gunjan_saini07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gunjan_saini07" height="30" width="40" /></a>
 </p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
